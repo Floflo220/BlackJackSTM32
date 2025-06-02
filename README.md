@@ -1,6 +1,6 @@
 # 🃏 BlackJackSTM32
 
-Projet de jeu **Blackjack** sur microcontrôleur **STM32** avec interface utilisateur via boutons physiques (BP1, UP, STAND).
+Projet de jeu **Blackjack** sur microcontrôleur **STM32** avec interface utilisateur via boutons physiques (BP1) et ecran tactile.
 
 ---
 
