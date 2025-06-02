@@ -18,8 +18,8 @@ Ce projet implémente un jeu de Blackjack en version **solo** ou **multijoueur l
   - Valets, Dames, Rois = 10
   - As = 1 ou 11, selon ce qui avantage le joueur
 - À son tour, le joueur peut :
-  - **Tirer une carte** ("Hit") → `BP_UP`
-  - **S'arrêter** ("Stand") → `BP_STAND`
+  - **Tirer une carte** ("Hit") → `UP`
+  - **S'arrêter** ("Stand") → `STAND`
 - La **banque** joue après le joueur :
   - Elle **tire jusqu'à atteindre 17 ou plus**
   - Si elle dépasse 21, elle perd
